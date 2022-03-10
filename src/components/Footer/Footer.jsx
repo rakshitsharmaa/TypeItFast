@@ -7,7 +7,7 @@ const Footer = () => {
             <a
                 target="_blank"
                 className="footer-link"
-                href="http://localhost:3000/flashtype"
+                href="https://www.linkedin.com/in/rakshitsharmaa/"
                 rel="noreferrer"
             >
                Created with love by Rakshit Kumar Sharma!
