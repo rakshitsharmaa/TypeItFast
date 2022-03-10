@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TypeItFast/static/css/main.9acf9724.chunk.css",
+    "main.js": "/TypeItFast/static/js/main.f2a0dcc6.chunk.js",
+    "main.js.map": "/TypeItFast/static/js/main.f2a0dcc6.chunk.js.map",
+    "runtime-main.js": "/TypeItFast/static/js/runtime-main.4fd41421.js",
+    "runtime-main.js.map": "/TypeItFast/static/js/runtime-main.4fd41421.js.map",
+    "static/js/2.f4418f2d.chunk.js": "/TypeItFast/static/js/2.f4418f2d.chunk.js",
+    "static/js/2.f4418f2d.chunk.js.map": "/TypeItFast/static/js/2.f4418f2d.chunk.js.map",
+    "index.html": "/TypeItFast/index.html",
+    "static/css/main.9acf9724.chunk.css.map": "/TypeItFast/static/css/main.9acf9724.chunk.css.map",
+    "static/js/2.f4418f2d.chunk.js.LICENSE.txt": "/TypeItFast/static/js/2.f4418f2d.chunk.js.LICENSE.txt",
+    "static/media/flash.1e5493dd.png": "/TypeItFast/static/media/flash.1e5493dd.png",
+    "static/media/logo.904ac8fd.png": "/TypeItFast/static/media/logo.904ac8fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fd41421.js",
+    "static/js/2.f4418f2d.chunk.js",
+    "static/css/main.9acf9724.chunk.css",
+    "static/js/main.f2a0dcc6.chunk.js"
+  ]
+}
